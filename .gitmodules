@@ -1,0 +1,15 @@
+[submodule "crates/core"]
+	path = crates/core
+	url = https://github.com/rust-qmol/core.git
+[submodule "crates/cint"]
+	path = crates/cint
+	url = https://github.com/rust-qmol/cint.git
+[submodule "crates/xtb"]
+	path = crates/xtb
+	url = https://github.com/rust-qmol/xtb.git
+[submodule "crates/babel"]
+	path = crates/babel
+	url = https://github.com/rust-qmol/babel.git
+[submodule "crates/blas"]
+	path = crates/blas
+	url = https://github.com/rust-qmol/blas.git
